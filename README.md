@@ -1,8 +1,8 @@
-#LeetCode Solutions by TshegoR24#
+# LeetCode Solutions by TshegoR24 #
 
 Welcome to my collection of LeetCode solutions! This repository showcases my journey in solving algorithmic challenges, aiming to improve problem-solving skills and prepare for technical interviews.
 
-ℹ️ About
+ℹ️ # About #
 
 This repository contains my solutions to various LeetCode problems, implemented in multiple programming languages. Each solution is organized by problem number and includes comments explaining the approach and thought process.
 GitHub
@@ -11,13 +11,13 @@ To showcase my progress and achievements, I have integrated a dynamic LeetCode s
 https://readmecodegen.vercel.app/api/leetcode-stats/TshegoRakoma
 
 
-🧩 Solutions Overview
+🧩 # Solutions Overview #
 The solutions are categorized by difficulty level:
-#Easy#: Basic problem-solving techniques.
-#Medium#: Intermediate algorithms and data structures.
-#Hard#: Advanced problem-solving strategies.
+# Easy #: Basic problem-solving techniques.
+# Medium #: Intermediate algorithms and data structures.
+# Hard #: Advanced problem-solving strategies.
 
-⚙️ Technologies Used
+⚙️ # Technologies Used #
 
 Languages: Javascript
 
